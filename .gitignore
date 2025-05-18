@@ -1,0 +1,23 @@
+# Node / React
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Mac / Linux
+.DS_Store
+.env
+.env.example
+service_account.json
+
+# Docker
+*.log
+*.pid
+
+# Env files
+.env

@@ -1,0 +1,17 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+requests==2.31.0
+feedparser==6.0.11
+schedule==1.2.1
+numpy==1.26.4
+python-dotenv==1.0.1
+psycopg2-binary==2.9.9
+pytest==8.0.0
+# Optional – only used if OPENAI_API_KEY is set
+openai==1.23.2
+SQLAlchemy==2.0.30
+markdown==3.5.2
+WeasyPrint==60.2
+sendgrid==6.11.0
+python-multipart==0.0.9      # Needed by FastAPI for form bodies
+
